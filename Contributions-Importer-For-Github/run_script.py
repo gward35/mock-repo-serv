@@ -5,7 +5,7 @@ from git_contributions_importer import *
 # Your private repo or Bitbucket repo
 repo = git.Repo("/Users/gretchen.ward/Repositories/services")
 # Your mock repo
-mock_repo = git.Repo("/Users/ggward/Projects/mock-repo-pro")
+mock_repo = git.Repo("/Users/gretchen.ward/Repositories/mock-repo-pro")
 importer = Importer([repo], mock_repo)
 # I use both my personal email and work email here,
 # Since the private repo uses work email, and Github profiles uses
