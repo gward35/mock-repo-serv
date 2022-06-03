@@ -1,5 +1,5 @@
-public class Cegiwg {
+public class Cgklok {
     public static void main() {
-        System.out.println("pelvr");
+        System.out.println("tsrra");
     }
 }
