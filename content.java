@@ -1,5 +1,5 @@
-public class Cgklok {
+public class Cpwxmk {
     public static void main() {
-        System.out.println("tsrra");
+        System.out.println("vnfkj");
     }
 }
